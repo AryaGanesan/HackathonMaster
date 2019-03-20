@@ -9,8 +9,7 @@ This website may be the Academies Hackathon website!
 This website may be the Academies Hackathon website!
 
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+> Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ## Release History
 > What's this for?
