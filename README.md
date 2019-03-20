@@ -78,3 +78,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 ## Customer Requests
+  * Logo should be on the left
+  * Four buttons, top four on HackTJ suite
+  * Opacity over the image use HackMHS as reference
+  * Add background image of school
