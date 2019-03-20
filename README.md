@@ -1,44 +1,18 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
-
-## Installation Process
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
+This website may be the Academies Hackathon website!
 
 ## Usage example
+> Short blurb about how your product can be used.
 
-A fe  w motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+This website may be the Academies Hackathon website!
 
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+> Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ## Release History
+> What's this for?
 
 * 0.1.1 3-18-2019
     * Navbar, jumbotron
