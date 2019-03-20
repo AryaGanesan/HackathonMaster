@@ -78,7 +78,8 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 ## Customer Requests
-  * Logo should be on the left
+  * Logo should have words
   * Four buttons, top four on HackTJ site
   * Opacity over the image use HackMHS as reference
+  * Academies Hacks with date and time
   * Add background image of school
