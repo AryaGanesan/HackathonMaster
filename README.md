@@ -79,6 +79,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Customer Requests
   * Logo should be on the left
-  * Four buttons, top four on HackTJ suite
+  * Four buttons, top four on HackTJ site
   * Opacity over the image use HackMHS as reference
   * Add background image of school
