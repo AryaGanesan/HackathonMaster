@@ -57,3 +57,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
   * Opacity over the image use HackMHS as reference
   * Academies Hacks with date and time
   * Add background image of school
+  * Change button colors to ACL colors
+  * Inaugural , bigger
+  * Academies HackMHS
+  * Get registration links from Katie
