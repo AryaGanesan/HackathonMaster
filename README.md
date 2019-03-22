@@ -1,5 +1,5 @@
 ## Release History
-> What's this for?
+> List the changes made to website.
 
 * 0.1.1 3-18-2019
     * Navbar, jumbotron
