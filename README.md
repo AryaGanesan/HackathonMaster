@@ -10,7 +10,6 @@
 
 * 0.2.1 3-20-2019
     * Made changes based on CSR #1
-      *  ADD: Logo in left hand corner
       *  CHANGE: Text under signup buttons
 
 
