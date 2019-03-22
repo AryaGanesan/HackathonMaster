@@ -26,3 +26,4 @@
   * Academies HackMHS
   * Get registration links from Katie
   * Add workshop categories.
+  * Beg, Intermediate, and Advanced for Workshops.
