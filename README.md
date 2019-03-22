@@ -16,14 +16,12 @@
 ## Customer Requests
 > List customer's requests.
 
-  * Logo should have words
-  * Four buttons, top four on HackTJ site
-  * Opacity over the image use HackMHS as reference
-  * Academies Hacks with date and time
-  * Add background image of school
-  * Change button colors to ACL colors
-  * Inaugural , bigger
-  * Academies HackMHS
-  * Get registration links from Katie
-  * Add workshop categories.
-  * Beg, Intermediate, and Advanced for Workshops.
+  * Use the full Academies logo.
+  * Make four buttons for registration (like in HackTJ).
+  * Place a color 'filter' over the jumbotron image (like in HackMHS).
+  * Add Academies Hacks with date and time.
+  * Change button colors to ACL colors.
+  * Make 'Inaugural' on the jumbotron bigger.
+  * Get registration links from Katie and hook them up with buttons.
+  * Add workshop categories in 'Menu'. Separate into Beginner, Intermediate,
+    and Advanced for Workshops (using the bar there).
