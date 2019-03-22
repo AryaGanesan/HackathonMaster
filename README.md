@@ -1,22 +1,9 @@
-# Product Name
-> Short blurb about what your product does.
-
-This website may be the Academies Hackathon website!
-
-## Usage example
-> Short blurb about how your product can be used.
-
-This website may be the Academies Hackathon website!
-
-## Development setup
-> Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
 ## Release History
 > What's this for?
 
 * 0.1.1 3-18-2019
     * Navbar, jumbotron
-      * ADD: signup buttons in Navbar
+      * ADD: Signup buttons in Navbar
       * CHANGE:  Background Photo in jumbotron
       * CHANGE: Color Scheme to match customer requirements (blue/teal)
 
@@ -27,31 +14,9 @@ This website may be the Academies Hackathon website!
       *  CHANGE: Text under signup buttons
 
 
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
-
 ## Customer Requests
+> List customer's requests.
+
   * Logo should have words
   * Four buttons, top four on HackTJ site
   * Opacity over the image use HackMHS as reference
@@ -61,3 +26,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
   * Inaugural , bigger
   * Academies HackMHS
   * Get registration links from Katie
+  * Add workshop categories.
