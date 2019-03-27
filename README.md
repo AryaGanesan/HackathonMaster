@@ -1,3 +1,7 @@
+## Responsibility
+
+Academies Hackathon
+
 ## Group Members
 
 Jacqueline Chao, Arya Ganesan
