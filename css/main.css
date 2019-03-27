@@ -2485,6 +2485,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-right: auto
 }
 
+.menu_area .workshop-links {
+  color: #222;
+  text-decoration: none;
+}
+
 .filter-wrap {
   background: #fff;
   border-radius: 10px;
