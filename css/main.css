@@ -2438,7 +2438,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   width: 40%;
   min-height: 1px;
-  padding-right: 15px;
+  padding-right: 25px;
   padding-left: 15px
 }
 
@@ -2446,8 +2446,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   width: 60%;
   min-height: 1px;
-  padding-right: 15px;
-  padding-left: 25px
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.home-about-right img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .home-about-left p {
