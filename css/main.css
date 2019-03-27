@@ -2075,7 +2075,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover>a {
-  text-shadow: -1px -1px 0 #222, 1px -1px 0 #222, -1px 1px 0 #222, 1px 1px 0 #222;
+  color: #222;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 .nav-menu>li {
@@ -2433,9 +2434,26 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff
 }
 
+.home-about-left {
+  position: relative;
+  width: 40%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px
+}
+
+.home-about-right {
+  position: relative;
+  width: 60%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 25px
+}
+
 .home-about-left p {
   margin: 20px 0;
-  max-width: 490px
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .home-about-left .primary-btn:hover {
