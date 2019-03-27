@@ -48,13 +48,13 @@ https://aryaganesan.github.io/HackathonMaster/
 ## Customer Requests
 > List customer's requests.
 
-  * Use the full Academies logo. (WIP)
+  * Use the full Academies logo. (DONE)
   * Make four buttons for registration (like in HackTJ). (DONE)
-  * Place a color 'overlay' over the jumbotron image (like in HackMHS). (WORK ON)
+  * Place a color 'overlay' over the jumbotron image (like in HackMHS). (???)
   * Add Academies Hacks with date and time. (DONE)
   * Change button colors to ACL colors. (DONE)
   * Make 'Inaugural' on the jumbotron bigger. (DONE)
-  * Get registration links from Katie and hook them up with buttons. (WORK ON)
+  * Get registration links from Katie and hook them up with buttons. (WIP)
   * Add workshop categories in 'Menu'. Separate into Beginner, Intermediate,
     and Advanced for Workshops (using the bar there). (WORK ON)
   * Put Sponsors at the bottom of Home page. (WIP)
