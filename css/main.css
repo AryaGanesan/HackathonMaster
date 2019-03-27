@@ -536,8 +536,14 @@ td, th {
   color: #fff
 }
 
+.text-stroke {
+  color: #fff;
+  text-shadow: -1px -1px 0 #222, 1px -1px 0 #222, -1px 1px 0 #222, 1px 1px 0 #222;
+}
+
 .date-time {
-  font-size: 24px;
+  font-size: 28px;
+  font-weight: bolder;
 }
 
 .text-black {
@@ -2069,7 +2075,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover>a {
-  color: #2e56c2
+  text-shadow: -1px -1px 0 #222, 1px -1px 0 #222, -1px 1px 0 #222, 1px 1px 0 #222;
 }
 
 .nav-menu>li {
@@ -2239,11 +2245,23 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #logo {
-  padding-left: 15px
+  padding-left: 15px;
+}
+
+#logo img {
+  max-width: 26%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 #nav-menu-container {
   padding-right: 15px
+}
+
+.primary-btnH:hover {
+  color: #fff;
+  background: #222;
 }
 
 .primary-btnH {
@@ -2270,6 +2288,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative
 }
 
+/*like primary-btn, only for the sign-up buttons*/
 .primary-btn {
   background: #2e56c2;
   line-height: 42px;
@@ -2286,6 +2305,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 210px;
   text-align: center;
   margin-top: 10px;
+  margin-right: 10px;
+  /*yes, specify margin-right for btn! not btnH!*/
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2403,7 +2424,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content p {
-  max-width: 515px;
+  max-width: 600px;
   margin-bottom: 30px
 }
 
