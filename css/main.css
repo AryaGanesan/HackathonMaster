@@ -536,8 +536,14 @@ td, th {
   color: #fff
 }
 
+.text-stroke {
+  color: #fff;
+  text-shadow: -1px -1px 0 #222, 1px -1px 0 #222, -1px 1px 0 #222, 1px 1px 0 #222;
+}
+
 .date-time {
-  font-size: 24px;
+  font-size: 28px;
+  font-weight: bolder;
 }
 
 .text-black {
@@ -2069,7 +2075,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover>a {
-  color: #2e56c2
+  color: #222;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
 
 .nav-menu>li {
@@ -2239,11 +2246,23 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #logo {
-  padding-left: 15px
+  padding-left: 15px;
+}
+
+#logo img {
+  max-width: 26%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 #nav-menu-container {
   padding-right: 15px
+}
+
+.primary-btnH:hover {
+  color: #fff;
+  background: #222;
 }
 
 .primary-btnH {
@@ -2259,7 +2278,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 500;
   position: relative;
   text-transform: uppercase;
-  width: 210px;
+  width: 222px;
   text-align: center;
   margin-top: 10px;
   -webkit-transition: all 0.3s ease 0s;
@@ -2270,6 +2289,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative
 }
 
+/*like primary-btn, only for the sign-up buttons*/
 .primary-btn {
   background: #2e56c2;
   line-height: 42px;
@@ -2283,9 +2303,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 500;
   position: relative;
   text-transform: uppercase;
-  width: 210px;
+  width: 222px;
   text-align: center;
   margin-top: 10px;
+  margin-right: 10px;
+  /*yes, specify margin-right for btn! not btnH!*/
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2358,7 +2380,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/academies_entrance2.jpg) center center/cover;
+  background: url(../img/academies_entrance.jpg) center center/cover;
   background-size: cover
 }
 
@@ -2403,7 +2425,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content p {
-  max-width: 515px;
+  max-width: 600px;
   margin-bottom: 30px
 }
 
@@ -2412,9 +2434,34 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff
 }
 
+.home-about-left {
+  position: relative;
+  width: 40%;
+  min-height: 1px;
+  padding-right: 25px;
+  padding-left: 15px
+}
+
+.home-about-right {
+  position: relative;
+  width: 60%;
+  min-height: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.home-about-right img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 .home-about-left p {
   margin: 20px 0;
-  max-width: 490px
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .home-about-left .primary-btn:hover {
@@ -2436,6 +2483,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #2e56c2;
   margin-left: auto;
   margin-right: auto
+}
+
+.menu_area .workshop-links {
+  color: #222;
+  text-decoration: none;
 }
 
 .filter-wrap {
