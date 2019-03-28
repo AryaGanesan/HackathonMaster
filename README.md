@@ -54,7 +54,7 @@ https://aryaganesan.github.io/HackathonMaster/
   * Add Academies Hacks with date and time. (DONE)
   * Change button colors to ACL colors. (DONE)
   * Make 'Inaugural' on the jumbotron bigger. (DONE)
-  * Get registration links from Katie and hook them up with buttons. (WIP)
+  * Get registration links from Katie and hook them up with buttons. (WIP for Mentor link, done for students)
   * Add workshop categories in 'Menu'. Separate into Beginner, Intermediate,
     and Advanced for Workshops (using the bar there). (DONE)
   * Put Sponsors at the bottom of Home page. (N/A for now)
