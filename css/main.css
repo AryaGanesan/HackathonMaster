@@ -4235,7 +4235,7 @@ section.team li.question-group.is-open:hover {
 }
 
 section.team li.question-group.is-open:hover .icon {
- color:#c7514c
+ color:#2e56c2
 }
 
 section.team li.question-group .question {
@@ -4244,7 +4244,7 @@ section.team li.question-group .question {
 }
 
 section.team li.question-group .question:hover {
- color:#c7514c
+ color:#2e56c2
 }
 
 section.team li.question-group .answer {
@@ -4266,7 +4266,7 @@ section.team li.question-group .answer:before {
  right:16px;
  top:1px;
  height:2px;
- background-color:#c7514c
+ background-color:#2e56c2
 }
 
 section.team li.question-group .answer p {
@@ -4274,5 +4274,5 @@ section.team li.question-group .answer p {
 }
 
 section.team li.question-group .answer a {
- color:#c7514c
+ color:#2e56c2
 }
