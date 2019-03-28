@@ -56,5 +56,5 @@ https://aryaganesan.github.io/HackathonMaster/
   * Make 'Inaugural' on the jumbotron bigger. (DONE)
   * Get registration links from Katie and hook them up with buttons. (WIP)
   * Add workshop categories in 'Menu'. Separate into Beginner, Intermediate,
-    and Advanced for Workshops (using the bar there). (WORK ON)
-  * Put Sponsors at the bottom of Home page. (WIP)
+    and Advanced for Workshops (using the bar there). (DONE)
+  * Put Sponsors at the bottom of Home page. (N/A for now)
