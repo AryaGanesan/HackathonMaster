@@ -4184,7 +4184,7 @@ section.team .team-pictures .fade figcaption {
  padding:0 10px;
  word-wrap:break-word;
  line-height:200px;
- background:rgba(46,86,94,.5);
+ background:rgba(46, 86, 194, 0.5);
  opacity:0;
  transition:opacity .3s ease
 }
@@ -4227,11 +4227,11 @@ section.team li.question-group.is-open .question .icon.icon-plus {
 }
 
 section.team li.question-group.is-open .question:hover {
- color:#555
+ color:#2e56c2
 }
 
 section.team li.question-group.is-open:hover {
- color:#555
+ color:#2e56c2
 }
 
 section.team li.question-group.is-open:hover .icon {
@@ -4255,7 +4255,7 @@ section.team li.question-group .answer {
  opacity:1;
  overflow:hidden;
  background:#fff;
- color:#555
+ color:#2e56c2
 }
 
 section.team li.question-group .answer:before {
