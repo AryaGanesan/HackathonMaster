@@ -4184,7 +4184,7 @@ section.team .team-pictures .fade figcaption {
  padding:0 10px;
  word-wrap:break-word;
  line-height:200px;
- background:rgba(199,81,76,.5);
+ background:rgba(46,86,94,.5);
  opacity:0;
  transition:opacity .3s ease
 }
