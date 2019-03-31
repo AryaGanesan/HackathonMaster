@@ -12,9 +12,8 @@ https://aryaganesan.github.io/HackathonMaster/
 
 ## Status
 
-  * Find and use an academies logo.
-  * Implement an overlay over the jumbotron image.
-  * Fix the Workshop section.
+  * Need Team photos.
+  * Need Sponsors.
 
 ## Release History
 > List the changes made to website.
